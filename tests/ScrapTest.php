@@ -1,9 +1,9 @@
 <?php
 
-use Wmouc\IimTd3\Scrappe;
+use Wmouc\IimTd3\Scrap;
 use PHPUnit\Framework\TestCase;
 
-class ScrappeTest extends TestCase 
+class ScrapTest extends TestCase 
 {
     public function testGetValorantAgents()
     {

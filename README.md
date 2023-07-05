@@ -1,6 +1,6 @@
-# Get random number 
+# info
 
-A beautiful pack
+Here are the names of the valuation agents I scraped with the site: https://playvalorant.com/fr-fr/agents/
 
 ## Installation 
 
