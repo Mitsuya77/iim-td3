@@ -9,7 +9,7 @@ class Scrap
     {
         $url = 'https://playvalorant.com/fr-fr/agents/';
         // Récupérer le contenu HTML de la page
-        $html = file_get_contents($url);
+        $html = (string)file_get_contents($url);
 
         // Créer une instance de Crawler
         $crawler = new Crawler($html);
