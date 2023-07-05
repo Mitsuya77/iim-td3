@@ -1,4 +1,8 @@
-# iim-td3
+# Get random number 
+
+A beautiful pack
+
+## Installation 
 
 
 ## Local development
